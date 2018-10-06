@@ -14,6 +14,8 @@ module Generics.SOP.GGP
   , GTo
   , GDatatypeInfo
   , GDatatypeInfoOf
+  , GSumTo(..)
+  , ToSumCode
   , gfrom
   , gto
   , gdatatypeInfo
